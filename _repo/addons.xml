@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.infowars"
        name="Infowars"
-       version="2.0.8"
+       version="2.0.9"
        provider-name="Thomas Meadows, Spinalcracker">
   <requires>
 		<import addon="xbmc.python" version="2.24.0"/>
